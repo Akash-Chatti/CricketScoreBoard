@@ -8,8 +8,7 @@ namespace CricketScoreManagement
 {
     public class Program
     {
-       // public static IMatch m;
-        //public Program(IMatch _m) => m = _m;
+       
         static void Main(string[] args)
         {
             var container = StartUp.ConfigureService();
